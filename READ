@@ -1,0 +1,37 @@
+# Smart Resume Analyzer
+
+A Flask-based Smart Resume Analyzer that analyzes resumes by matching resume keywords with job descriptions and calculates a match score percentage.
+
+## Features
+
+- Upload Resume (PDF)
+- Enter Job Description
+- Keyword Matching
+- Match Score Percentage
+- Simple UI
+
+## Tech Stack
+
+- Python
+- Flask
+- HTML
+- CSS
+- PyPDF2
+
+## Installation
+
+Clone the repository:
+
+git clone https://github.com/your-username/smart-resume-analyzer.git
+
+Install dependencies:
+
+pip install -r requirements.txt
+
+Run application:
+
+python app.py
+
+Open browser:
+
+http://127.0.0.1:5000
